@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars0.githubusercontent.com/u/52421295?s=400&v=4" width="200" />
+</p>
+
 # Türkiye Açık Kaynak Platformu Tartışma Panoları
 
 Bu repo üzerinde tartışılacak panolar tutulur.
@@ -21,3 +25,5 @@ Reddedilen fikirler belirsiz aralıklarla arşivlenerek silinebilir.
 ### Genel Tartışma Aşamaları
 
 Yeni açılan tartışmalar **Açılan Tartışmalar** başlıgı altına gider, tartışmaları takip edebilmek adına tartışmalar **Tartışılanlar** altına taşınır. Uzlaşılan ya da tartışmanın devam etmedigi tartışmalar **Kapatılan Tartışmalar** altına taşınır.
+
+---
