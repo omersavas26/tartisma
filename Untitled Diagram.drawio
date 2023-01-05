@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T14:04:59.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="1qS994XaVO0OYXiqu72b" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T05:59:31.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="GN4uufP3DLCa_jIlrdBx" type="github">
   <diagram id="_hit5dbg10cEkQHOyQ8z" name="Page-1">
     <mxGraphModel dx="989" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="Qa-lKNvNfZP7GKMm4PIT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="450" y="210" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Qa-lKNvNfZP7GKMm4PIT-27" value="Service Mesh&amp;nbsp; &amp;nbsp;/&amp;nbsp; &amp;nbsp;Monitoring&amp;nbsp; /&amp;nbsp; Logs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Qa-lKNvNfZP7GKMm4PIT-27" value="Service Mesh&amp;nbsp; &amp;nbsp;/&amp;nbsp; &amp;nbsp;Monitoring&amp;nbsp; /&amp;nbsp; Logs&amp;nbsp; /&amp;nbsp; Dashboard" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="180" y="360" width="480" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qa-lKNvNfZP7GKMm4PIT-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
