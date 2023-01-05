@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T07:50:47.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="GA9WoX5P3bx7jH56HG43" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T08:19:17.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="41BkROVoG-yTgKfmB-u6" type="github">
   <diagram id="_hit5dbg10cEkQHOyQ8z" name="Page-1">
     <mxGraphModel dx="989" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="Qa-lKNvNfZP7GKMm4PIT-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Yalnızca Production Pod &#39;lar&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="390" y="530" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qa-lKNvNfZP7GKMm4PIT-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mysql - Test&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="Qa-lKNvNfZP7GKMm4PIT-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;DB - Test&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qa-lKNvNfZP7GKMm4PIT-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;App - Prod&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="Qa-lKNvNfZP7GKMm4PIT-15" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;App - Prod&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="380" y="210" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qa-lKNvNfZP7GKMm4PIT-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mysql - Prod&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="Qa-lKNvNfZP7GKMm4PIT-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;DB - Prod&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="380" y="300" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qa-lKNvNfZP7GKMm4PIT-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;App - Test&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
